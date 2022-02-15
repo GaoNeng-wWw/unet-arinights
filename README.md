@@ -1,7 +1,7 @@
 # 计算机视觉辅助检查脑部源石结晶源代码
 ---
 
-视频地址:https://www.bilibili.com/video/BV1hP4y1w7
+视频地址:https://www.bilibili.com/video/BV1RP4y1w7gm
 
 ---
 
